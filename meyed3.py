@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import eyed3, md3
 
 #eyed3.log.setLevel("ERROR")
